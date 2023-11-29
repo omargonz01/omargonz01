@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @omargonz01
+- 🌱 Always learning web development
 - 👀 I’m interested in blockchain technology and web development
 - 🌱 I’m currently building a full stack To-Do List web application with React.js
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me: omargonz41@gmail.com
 
-<a href="https://app.daily.dev/omargonz"><img src="https://github.com/omargonz01/omargonz01/blob/master/devcard.svg" width="400" alt="Omar Gonzalez's Dev Card"/></a>
+<a href="https://app.daily.dev/omargonz"><img src="https://api.daily.dev/devcards/d77031ab6d7a4e619886b3a19400b28d.png?r=tvh" width="800" alt="Omar Gonzalez's Dev Card"/></a>
 
 ## Projects
 - Developed a full stack web application for real-time crypto price alerts
