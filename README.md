@@ -2,7 +2,6 @@
 - 👀 I’m interested in blockchain technology and web development
 - 🌱 I’m currently buildinga a full stack To-Do List web application with React.js
 - 💞️ I’m looking to collaborate on open-source projects
-- 
 - 📫 How to reach me: omargonz41@gmail.com
 
 <a href="https://app.daily.dev/omargonz"><img src="https://api.daily.dev/devcards/d77031ab6d7a4e619886b3a19400b28d.png?r=aqm" width="400" alt="Omar Gonzalez's Dev Card"/></a>
