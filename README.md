@@ -4,7 +4,7 @@
 
 - 🙉 I’m Omar Gonzalez :)
 - 🧠 Always learning!  
-- 👀 I’m interested web development, blockchain technology, and ai
+- 👀 I’m interested in web development, blockchain technology, and ai
 - 🌱 I’m currently building a full stack To-Do List web application with React.js
 - 💞️ I’m looking to collaborate on cool open-source projects
 - 📫 How to reach me: omargonz41@gmail.com
