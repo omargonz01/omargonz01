@@ -10,9 +10,10 @@
 - 📫 How to reach me: omargonz41@gmail.com
 
 ## Projects
-- Developed a full stack web application for real-time crypto price alerts
-- Created a web app for searching, adding, and deleting Pokémon to create a team & battle other users’ Pokémon teams
-- Built a To-Do List web app, a music player, and a weather app using various APIs and JSON Web Tokens
+- Real-time Crypto Price Alerts: Developed a full stack web application ([Degen Zone](https://degenzone.onrender.com)) for real-time crypto price alerts as a tool for crypto investors to take notes, create watching lists and see potential gains with the click of a button.     
+- Pokémon Team Builder: Created a web app for searching, adding, and deleting Pokémon ([Pokemon Battler](https://pokemon-flask-akd3.onrender.com)) to create a team & battle other users’ teams.
+- To-Do List Web App: Built a To-Do List web app, a music player, and a weather app using various APIs and JSON Web Tokens.
+
 <!---
 omargonz01/omargonz01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
