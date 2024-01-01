@@ -13,7 +13,7 @@
 - Real-time Crypto Price Alerts: Developed a full stack web application ([Degen Zone](https://degenzone.onrender.com)) to instantly track your favorite cryptos' potential gains. Search, add to your list, take notes, and stay updated every time you log in. Your ultimate crypto hub! See potential gains with the click of a button!   
 - Pokémon Team Builder: Created a web app for searching, adding, and deleting Pokémon ([Pokemon Battler](https://pokemon-flask-akd3.onrender.com)) to create a team & battle other users’ teams.
 - To-Do List Web App: Built a To-Do List web app using JS libraries.
-- Music Player: Built a music web app using spotify API.
+- Music Player: Built a music web app using Spotify API.
 - Weather App: Built a weather app that uses OpenWeather API.
 
 <!---
