@@ -7,7 +7,7 @@
 - 👀 I’m interested in web development, blockchain technology, and ai
 - 🌱 I’m currently building a full stack To-Do List web application with React.js
 - 💞️ Also looking to collaborate on cool open-source projects
-- 📫 How to reach me: omargonz41@gmail.com or dm me on linkedin :) 
+- 📫 How to reach me: omar.gonz41@gmail.com or dm me on linkedin :) 
 
 ## Projects
 - Real-time Crypto Price Alerts: Developed a full stack web application ([Degen Zone](https://degenzone.onrender.com)) to instantly track your favorite cryptos' potential gains. Search, add to your list, take notes, and stay updated every time you log in. Your ultimate crypto hub! See potential gains with the click of a button!   
