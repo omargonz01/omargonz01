@@ -12,6 +12,7 @@
 ## Projects
 - Real-time Crypto Price Alerts: Developed a full stack web application ([Degen Zone](https://degenzone.onrender.com)) to instantly track your favorite cryptos' potential gains. Search, add to your list, take notes, and stay updated every time you log in. Your ultimate crypto hub! See potential gains with the click of a button!   
 - Pokémon Team Builder: Created a web app for searching, adding, and deleting Pokémon ([Pokemon Battler](https://pokemon-flask-akd3.onrender.com)) to create a team & battle other users’ teams.
+- Minesweeper: Re-created the classic minesweep game using vanilla HTML + CSS + JS. Check it out! ([Minesweeper](https://65a81cf2e1f83e0086bd449c--lucky-blini-6e21d9.netlify.app/))
 - To-Do List Web App: Built a To-Do List web app using JS libraries.
 - Music Player: Built a music web app using Spotify API.
 - Weather App: Built a weather app that uses OpenWeather API.
