@@ -1,4 +1,4 @@
-## [![OmarGonz01 header](https://github.com/omargonz01/omargonz01/blob/main/workspace_banner.jpg?raw=true)](https://www.credly.com/users/omar-gonzalez.eb783789)
+## [![OmarGonz01 header](https://github.com/omargonz01/omargonz01/blob/main/portfolio.png)](https://www.credly.com/users/omar-gonzalez.eb783789)
 
 ### Hi there 👋
 
