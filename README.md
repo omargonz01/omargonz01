@@ -7,13 +7,13 @@
 - 👀 Blockchain, AI, gaming, crypto and more.
 - 🌱 I'm here to create tools + apps that make a difference—and have a little fun along the way.
 - 💞️ Also looking to collaborate on cool open-source projects
-- 📫 How to reach me: omar.gonz41@gmail.com or dm me on linkedin :) 
+- 📫 How to reach me: omar.gonz41@gmail.com or dm me on [LinkedIn](https://www.linkedin.com/in/omar-go/) :) 
 
 ## My Projects
-- Portfolio: I showcase my flair for innovation and problem-solving. Explore my diverse portfolio showcasing a collection of impactful projects that highlight my skills in  programming, ranging from full-stack web applications to algorithmic solutions. Check out the full portfolio at ([Portfolio](https://omargonzalez.netlify.app)) to witness firsthand the intersection of creativity and technical proficiency in my software engineering journey."
-- Real-time Crypto Price Alerts: Developed a full stack web application ([Degen Zone](https://degenzone.onrender.com)) to instantly track your favorite cryptos' potential gains. Search, add to your list, take notes, and stay updated every time you log in. Your ultimate crypto hub! See potential gains with the click of a button!   
-- Pokémon Team Builder: Created a web app for searching, adding, and deleting Pokémon ([Pokemon Battler](https://pokemon-flask-akd3.onrender.com)) to create a team & battle other users’ teams.
-- Retro Games: Re-created 3 classic games using vanilla HTML + CSS + JS. Check it out! ([Minesweeper](https://65a81cf2e1f83e0086bd449c--lucky-blini-6e21d9.netlify.app/), [Stacker](https://snazzy-pasca-9577a8.netlify.app/), [Frogger](https://resilient-shortbread-55a293.netlify.app/))
+- [Portfolio](https://omargonzalez.netlify.app): I showcase my flair for innovation and problem-solving. Explore my diverse portfolio showcasing a collection of impactful projects that highlight my skills in  programming, ranging from full-stack web applications to algorithmic solutions. Check out the full portfolio to witness firsthand the intersection of creativity and technical proficiency in my software engineering journey."
+- [Degen Zone](https://degenzone.onrender.com): Real-time Crypto Price Alerts: Developed a full stack web application to instantly track your favorite cryptos' potential gains. Search, add to your list, take notes, and stay updated every time you log in. Your ultimate crypto hub! See potential gains with the click of a button!   
+- [Pokémon Battler](https://pokemon-flask-akd3.onrender.com): Pokémon Team Builder: Created a web app for searching, adding, and deleting Pokémon to create a team & battle other users’ teams.
+- [Minesweeper](https://65a81cf2e1f83e0086bd449c--lucky-blini-6e21d9.netlify.app/), [Stacker](https://snazzy-pasca-9577a8.netlify.app/), [Frogger](https://resilient-shortbread-55a293.netlify.app/): Retro Games: Re-created 3 classic games using vanilla HTML + CSS + JS. Check it out! 
 - To-Do List Web App: Built a To-Do List web app using JS libraries.
 - Music Player: Built a music web app using Spotify API.
 - Weather App: Built a weather app that uses OpenWeather API.
