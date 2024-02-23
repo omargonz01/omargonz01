@@ -22,5 +22,5 @@
 omargonz01/omargonz01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://app.daily.dev/omargonz"><img src="https://api.daily.dev/devcards/d77031ab6d7a4e619886b3a19400b28d.png?r=tvh" width="400" alt="Omar Gonzalez's Dev Card"/></a>
+<a href="https://app.daily.dev/omargonz"><img src="https://api.daily.dev/devcards/v2/ah5hWzQjwPwUbvcU94f8q.png?type=wide&r=up0" width="652" alt="Omar Gonzalez's Dev Card"/></a>
 
