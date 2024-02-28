@@ -7,7 +7,7 @@
 - 👀 Blockchain, AI, gaming, crypto and more.
 - 🌱 I'm here to create tools + apps that make a difference & have a little fun along the way.
 - 💞️ Also looking to collaborate on cool open-source projects
-- 📫 How to reach me: omar.gonz41@gmail.com, [My Contact Form](https://omargonzalez.netlify.app/contact), or dm me on [LinkedIn](https://www.linkedin.com/in/omar-go/) :) 
+- 📫 How to reach me: omar.gonz41@gmail.com, [My Contact Form](https://omargonzalez.netlify.app), or dm me on [LinkedIn](https://www.linkedin.com/in/omar-go/) :) 
 
 ## My Projects
 - [Portfolio](https://omargonzalez.netlify.app): Check out my portfolio! I show you that I am a dynamic software engineer with a knack for innovation. Dive into my projects ranging from full-stack web apps, to games, to clever algorithms. Each one showcases my dedication to clean code, excellence, and a user-centric approach. Select the Project Page from the nav menu to view my whole portfolio!
