@@ -11,6 +11,7 @@
 
 ## My Projects
 - [Portfolio](https://omargonzalez.netlify.app): Check out my portfolio! I show you that I am a dynamic software engineer with a knack for innovation. Dive into my projects ranging from full-stack web apps, to games, to clever algorithms. Each one showcases my dedication to clean code, excellence, and a user-centric approach. Select the Project Page from the nav menu to view my whole portfolio!
+- [BiteByte](https://bitebyte.onrender.com/): Introducing BiteByte! Bite-sized insights, big results. A smart nutrition tracking app powered by AI ✨ Snap a quick pic, or upload an image of your food to get instant macro breakdown analysis of your meal :)
 - [Degen Zone](https://degenzone.onrender.com): Real-time Crypto Price Alerts: Developed a full stack web application to instantly track your favorite cryptos' potential gains. Search, add to your list, take notes, and stay updated every time you log in. Your ultimate crypto hub! See potential gains with the click of a button!   
 - [Pokémon Battler](https://pokemon-flask-akd3.onrender.com): Pokémon Team Builder: Created a web app for searching, adding, and deleting Pokémon to create a team & battle other users’ teams.
 - [Minesweeper](https://65a81cf2e1f83e0086bd449c--lucky-blini-6e21d9.netlify.app/), [Stacker](https://snazzy-pasca-9577a8.netlify.app/), [Frogger](https://resilient-shortbread-55a293.netlify.app/): Retro Games: Re-created 3 classic games using vanilla HTML + CSS + JS. Check it out! 
