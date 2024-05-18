@@ -7,7 +7,7 @@
 - 👀 Blockchain, AI, gaming, crypto and more.
 - 🌱 I'm here to create tools + apps that make a difference & have a little fun along the way.
 - 💞️ Also looking to collaborate on cool open-source projects
-- 🤖 Check out my featured product here -> [BiteByte Product Portfolio](https://omargonzalez.netlify.app](https://www.joincolab.io/product/BiteByte))
+- 🤖 Check out my featured product here -> [BiteByte Product Portfolio](https://www.joincolab.io/product/BiteByte)
 - 📫 How to reach me: [My Contact Form](https://omargonzalez.netlify.app), [LinkedIn](https://www.linkedin.com/in/omar-go/), omar.gonz41@gmail.com :) 
 
 ## My Projects
